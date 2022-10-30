@@ -1,0 +1,9 @@
+{
+    find_program = {
+        gcc = "/usr/bin/gcc",
+        gdc = false,
+        dmd = false,
+        zig = false,
+        ldc2 = false
+    }
+}

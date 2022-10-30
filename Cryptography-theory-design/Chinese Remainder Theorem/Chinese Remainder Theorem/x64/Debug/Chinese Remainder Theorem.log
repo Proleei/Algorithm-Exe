@@ -1,0 +1,6 @@
+﻿  CRTmain.cpp
+C:\vcpkg\installed\x64-windows\include\gmp.h(1785,19): warning C4244: “return”: 从“mp_limb_t”转换到“unsigned long”，可能丢失数据
+C:\vcpkg\installed\x64-windows\include\gmp.h(2230,16): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\Zachary\Desktop\secretProj\code_gitVersion\Chinese Remainder Theorem\Chinese Remainder Theorem\CRTmain.cpp(38,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Zachary\Desktop\secretProj\code_gitVersion\Chinese Remainder Theorem\Chinese Remainder Theorem\CRTmain.cpp(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Chinese Remainder Theorem.vcxproj -> C:\Users\Zachary\Desktop\secretProj\code_gitVersion\Chinese Remainder Theorem\x64\Debug\Chinese Remainder Theorem.exe
